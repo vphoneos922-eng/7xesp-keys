@@ -1,0 +1,19 @@
+{
+  "version": "3.7",
+  "mods": {
+    "main": {
+      "label": "7xESP Mod",
+      "zip_url": "https://github.com/solankiyashrajsinh922-cyber/loader-keys/releases/download/V1.0/payload_mod.zip"
+    }
+  },
+  "zip_password": "0000000000000000",
+  "lib_name": "libil2cpp.so",
+  "keys_url": "https://raw.githubusercontent.com/vphoneos922-eng/7xesp-keys/main/keys.json",
+  "maintenance": false,
+  "maintenance_msg": "Injection is currently under maintenance.\nPlease try again later.",
+  "force_update": false,
+  "min_version": "1.0",
+  "mod_features": {
+    "main": "===================================\n        7xESP MOD FUNCTIONS        \n===================================\n\n[ TAB: ESP ]\n• ESP Line\n• ESP Name\n• ESP Box\n• ESP Skeleton\n• ESP Distance\n• ESP Object\n• Crosshair\n\n[ TAB: AIM ]\n• 100% Zero Recoil\n• Normal Aimbot\n• bullet treck\n\n[ TAB: OTHER ]\n• Remove Trees\n• Remove Grass\n• Remove Textures\n• Fly Mode\n• Soul Mode\n• Wall Hack\n• Under Water Walk\n• Force Build\n• Always Day\n• Nife Treck\n\n[ AUTO FARM ]\n• Auto Farm Tree\n• Auto Farm Stone\n• Auto Farm Iron\n• Auto Farm Sulfur\n• Auto Farm Titan\n\n[ FREEZE OPTIONS ]\n• Freeze Zombies\n• Freeze Tank\n• Freeze Heli\n• Freeze Turret\n• Freeze Electric Turret\n\n[ TAB: SERVER ]\n• Device Unban\n• Strong Bypass (Safe)\n• Social Sarver Unlock\n• Open Room Without Card\n\n• You Can Use Fast Hit (Nife Treck)\nFor Fast Farming\n===================================\n\nMore Functions Are Coming Soon...\n\nSupport - https://t.me/7xESP\nOwner - @7xESP"
+  }
+}
