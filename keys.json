@@ -1,1 +1,13 @@
-{}
+{
+  "7xESP_S329R_WX8YR": {
+    "label": "Hate",
+    "created_at": "2026-08-21T08:15:45.445Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
+  }
+}
