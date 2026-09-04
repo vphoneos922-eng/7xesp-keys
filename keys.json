@@ -33,5 +33,17 @@
     "reseller": "kausik",
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_KQGQU_X34QS": {
+    "label": "Kaushik",
+    "created_at": "2026-09-04T11:37:38.709Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "kausik",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
