@@ -42,5 +42,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_H3KPR_RPUM7": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:15:01.205Z",
+    "expires_at": "2026-09-06T12:25:00.885Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
