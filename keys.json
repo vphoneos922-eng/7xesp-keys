@@ -493,5 +493,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_6RQJY_5PKAC": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:15:49.143Z",
+    "expires_at": "2026-09-06T12:25:48.812Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
