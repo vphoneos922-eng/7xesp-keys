@@ -53,5 +53,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_2AN9A_Z96NQ": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:15:02.326Z",
+    "expires_at": "2026-09-06T12:25:02.005Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
