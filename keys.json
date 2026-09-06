@@ -372,5 +372,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_73TNV_U27NJ": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:15:36.415Z",
+    "expires_at": "2026-09-06T12:25:35.829Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
