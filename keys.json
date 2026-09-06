@@ -20,5 +20,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_MKFPM_C4D4K": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:14:59.288Z",
+    "expires_at": "2026-09-06T12:24:58.964Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
