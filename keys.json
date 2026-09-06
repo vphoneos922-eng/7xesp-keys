@@ -526,5 +526,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_DV7BQ_F24FU": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:15:53.215Z",
+    "expires_at": "2026-09-06T12:25:52.698Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
