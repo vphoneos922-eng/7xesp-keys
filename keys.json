@@ -350,5 +350,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_U3S8W_UARG7": {
+    "label": "No Label",
+    "created_at": "2026-09-06T12:15:33.821Z",
+    "expires_at": "2026-09-06T12:25:32.221Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
