@@ -570,5 +570,17 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_42YPE_6K2U5": {
+    "label": "vineet",
+    "created_at": "2026-09-08T16:47:51.284Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "vineet",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
