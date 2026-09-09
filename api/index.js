@@ -105,6 +105,7 @@ module.exports = async (req, res) => {
         success: true,
         label: e.label||"User",
         expires_at: e.expires_at,
+        key_type: "main",
         mods: v.mods || {},
         zip_password: zipPassword,
         auth_file: authFile,
