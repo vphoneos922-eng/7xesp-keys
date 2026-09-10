@@ -14,5 +14,13 @@
     "created_at": "2026-09-08T09:48:29.915Z",
     "total_keys_generated": 1,
     "active": true
+  },
+  "admintribo": {
+    "name": "admin tribo",
+    "password": "7xespseller3",
+    "credits": 100,
+    "created_at": "2026-09-10T11:15:35.420Z",
+    "total_keys_generated": 0,
+    "active": true
   }
 }
