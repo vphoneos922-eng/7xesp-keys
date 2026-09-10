@@ -2,9 +2,9 @@
   "admintribo": {
     "name": "admin.   tribo",
     "password": "Tribo@123",
-    "credits": 99,
+    "credits": 98,
     "created_at": "2026-09-10T11:16:59.460Z",
-    "total_keys_generated": 1,
+    "total_keys_generated": 2,
     "active": true
   },
   "baki": {
