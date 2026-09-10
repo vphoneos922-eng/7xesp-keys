@@ -2,7 +2,7 @@
   "admintribo": {
     "name": "admin.   tribo",
     "password": "SellerTribo",
-    "credits": 10,
+    "credits": 110,
     "created_at": "2026-09-10T11:16:59.460Z",
     "total_keys_generated": 0,
     "active": true
