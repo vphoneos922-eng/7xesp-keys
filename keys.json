@@ -52,5 +52,16 @@
     "connected_devices": [
       "WDX-D482DCD161D6"
     ]
+  },
+  "7xESP_6JUU8_N45TE": {
+    "label": "TEJAS",
+    "created_at": "2026-09-11T08:32:38.067Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
