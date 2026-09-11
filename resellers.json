@@ -14,5 +14,13 @@
     "created_at": "2026-09-10T12:23:53.672Z",
     "total_keys_generated": 0,
     "active": true
+  },
+  "aman": {
+    "name": "aman",
+    "password": "Aman@1234",
+    "credits": 100,
+    "created_at": "2026-09-11T04:45:12.021Z",
+    "total_keys_generated": 0,
+    "active": true
   }
 }
