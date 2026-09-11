@@ -98,5 +98,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_PDW59_2BEUL": {
+    "label": "PM",
+    "created_at": "2026-09-11T08:40:28.421Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
