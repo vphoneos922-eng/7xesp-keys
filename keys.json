@@ -902,17 +902,5 @@
     "connected_devices": [
       "WDX-C8B7BA0A173C"
     ]
-  },
-  "7xESP_TD9CB_3C2T8": {
-    "label": "RUDI",
-    "created_at": "2026-09-10T21:59:18.976Z",
-    "expires_at": null,
-    "duration": "",
-    "device_id": null,
-    "locked_at": null,
-    "active": true,
-    "reseller": "admintribo",
-    "max_devices": 1,
-    "connected_devices": []
   }
 }
