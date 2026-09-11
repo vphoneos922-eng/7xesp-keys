@@ -200,10 +200,12 @@
     "created_at": "2026-09-11T11:04:42.010Z",
     "expires_at": null,
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-79CD8FC17EBE",
+    "locked_at": "2026-09-11T11:07:08.036Z",
     "active": true,
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-79CD8FC17EBE"
+    ]
   }
 }
