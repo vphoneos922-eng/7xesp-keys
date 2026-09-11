@@ -181,5 +181,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_XEJRS_JCLPL": {
+    "label": "Lipon",
+    "created_at": "2026-09-11T10:34:22.357Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
