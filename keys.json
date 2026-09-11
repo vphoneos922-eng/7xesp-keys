@@ -123,5 +123,17 @@
     "reseller": "aman",
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_9X4BU_MULU6": {
+    "label": "Hate",
+    "created_at": "2026-09-11T08:50:49.205Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "aman",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
