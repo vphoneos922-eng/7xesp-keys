@@ -63,5 +63,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_VWFTC_HX2GC": {
+    "label": "Arise",
+    "created_at": "2026-09-11T08:37:14.049Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
