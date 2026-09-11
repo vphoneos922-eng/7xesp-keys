@@ -916,5 +916,17 @@
     "connected_devices": [
       "WDX-A994F9652D44"
     ]
+  },
+  "7xESP_65FNQ_YZTML": {
+    "label": "RUDI",
+    "created_at": "2026-09-11T03:22:14.711Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "admintribo",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
