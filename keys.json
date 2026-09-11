@@ -194,5 +194,16 @@
     "connected_devices": [
       "WDX-B13B7BC14419"
     ]
+  },
+  "7xESP_VE5S4_XCSFZ": {
+    "label": "VINEET",
+    "created_at": "2026-09-11T11:04:42.010Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
