@@ -1,15 +1,4 @@
 {
-  "7xESP_85VT3_GWX5J": {
-    "label": "No Label",
-    "created_at": "2026-09-08T18:56:16.164Z",
-    "expires_at": "2026-09-08T19:06:15.758Z",
-    "duration": "",
-    "device_id": null,
-    "locked_at": null,
-    "active": true,
-    "max_devices": 1,
-    "connected_devices": []
-  },
   "7xESP_KRNLQ_R5QBB": {
     "label": "No Label",
     "created_at": "2026-09-08T18:56:17.461Z",
