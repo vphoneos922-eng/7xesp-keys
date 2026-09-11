@@ -39,5 +39,16 @@
     "connected_devices": [
       "WDX-2F5A2BFC60D6"
     ]
+  },
+  "7xESP_HT5JZ_U864E": {
+    "label": "Tejas",
+    "created_at": "2026-09-11T07:11:05.769Z",
+    "expires_at": "2026-09-18T07:11:05.336Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
