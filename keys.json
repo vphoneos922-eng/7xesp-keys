@@ -56,10 +56,12 @@
     "created_at": "2026-09-11T08:22:25.487Z",
     "expires_at": "2026-09-18T08:22:24.758Z",
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-D482DCD161D6",
+    "locked_at": "2026-09-11T08:27:44.227Z",
     "active": true,
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-D482DCD161D6"
+    ]
   }
 }
