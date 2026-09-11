@@ -1,15 +1,4 @@
 {
-  "7xESP_2SH3V_TFKEP": {
-    "label": "No Label",
-    "created_at": "2026-09-08T18:56:10.698Z",
-    "expires_at": "2026-09-08T19:06:10.281Z",
-    "duration": "",
-    "device_id": null,
-    "locked_at": null,
-    "active": true,
-    "max_devices": 1,
-    "connected_devices": []
-  },
   "7xESP_QJP2L_ZGB3R": {
     "label": "No Label",
     "created_at": "2026-09-08T18:56:12.201Z",
