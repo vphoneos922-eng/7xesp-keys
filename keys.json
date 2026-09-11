@@ -154,5 +154,17 @@
     "connected_devices": [
       "WDX-979A025FBB84"
     ]
+  },
+  "7xESP_JKGFG_VLA7F": {
+    "label": "Ashu",
+    "created_at": "2026-09-11T09:42:58.259Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "aman",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
