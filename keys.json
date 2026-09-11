@@ -76,5 +76,16 @@
     "active": true,
     "max_devices": 1,
     "connected_devices": []
+  },
+  "7xESP_92A6P_N7K8R": {
+    "label": "Ratul",
+    "created_at": "2026-09-11T08:37:55.664Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
