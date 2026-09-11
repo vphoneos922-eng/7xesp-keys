@@ -1,15 +1,4 @@
 {
-  "7xESP_GCBWA_CSPSC": {
-    "label": "No Label",
-    "created_at": "2026-09-08T18:56:00.389Z",
-    "expires_at": "2026-09-08T19:05:59.723Z",
-    "duration": "",
-    "device_id": null,
-    "locked_at": null,
-    "active": true,
-    "max_devices": 1,
-    "connected_devices": []
-  },
   "7xESP_S9FUK_FAFWW": {
     "label": "No Label",
     "created_at": "2026-09-08T18:56:01.572Z",
