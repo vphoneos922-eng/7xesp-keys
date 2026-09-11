@@ -1,15 +1,4 @@
 {
-  "7xESP_N8MMD_2WZV3": {
-    "label": "No Label",
-    "created_at": "2026-09-08T18:56:03.024Z",
-    "expires_at": "2026-09-08T19:06:02.605Z",
-    "duration": "",
-    "device_id": null,
-    "locked_at": null,
-    "active": true,
-    "max_devices": 1,
-    "connected_devices": []
-  },
   "7xESP_29J4N_6WV92": {
     "label": "No Label",
     "created_at": "2026-09-08T18:56:04.326Z",
