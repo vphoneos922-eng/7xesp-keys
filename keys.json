@@ -58,11 +58,13 @@
     "created_at": "2026-09-11T08:32:38.067Z",
     "expires_at": null,
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-E398A2D53D0D",
+    "locked_at": "2026-09-11T08:37:43.882Z",
     "active": true,
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-E398A2D53D0D"
+    ]
   },
   "7xESP_VWFTC_HX2GC": {
     "label": "Arise",
