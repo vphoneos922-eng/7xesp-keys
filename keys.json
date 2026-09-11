@@ -111,5 +111,17 @@
     "connected_devices": [
       "WDX-F2025E4EA715"
     ]
+  },
+  "7xESP_AJEYT_EHQYV": {
+    "label": "Datta",
+    "created_at": "2026-09-11T08:50:06.663Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "aman",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
