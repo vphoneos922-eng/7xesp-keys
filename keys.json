@@ -82,11 +82,13 @@
     "created_at": "2026-09-11T08:37:55.664Z",
     "expires_at": null,
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-4AFE668C1782",
+    "locked_at": "2026-09-11T09:28:35.389Z",
     "active": true,
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-4AFE668C1782"
+    ]
   },
   "7xESP_BQ84A_BUGVZ": {
     "label": "Ravi",
