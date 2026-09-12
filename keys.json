@@ -263,5 +263,17 @@
     "connected_devices": [
       "WDX-D571A48E7DAD"
     ]
+  },
+  "7xESP_W6TGG_USZ7M": {
+    "label": "Jhon",
+    "created_at": "2026-09-12T13:16:33.778Z",
+    "expires_at": "2026-09-12T13:46:31.805Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "baki",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
