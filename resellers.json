@@ -10,9 +10,9 @@
   "baki": {
     "name": "baki",
     "password": "Baki@123",
-    "credits": 98,
+    "credits": 97,
     "created_at": "2026-09-10T12:23:53.672Z",
-    "total_keys_generated": 2,
+    "total_keys_generated": 3,
     "active": true
   },
   "aman": {
