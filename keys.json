@@ -317,5 +317,16 @@
     "connected_devices": [
       "WDX-0D29068AD7AD"
     ]
+  },
+  "7xESP_VFCEK_TKHXE": {
+    "label": "KAKA",
+    "created_at": "2026-09-17T18:10:58.557Z",
+    "expires_at": "2026-09-27T18:10:58.169Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
