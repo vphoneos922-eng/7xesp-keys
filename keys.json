@@ -380,5 +380,17 @@
     "connected_devices": [
       "WDX-F953592DEF58"
     ]
+  },
+  "7xESP_R24CR_E2NSZ": {
+    "label": "Aman",
+    "created_at": "2026-09-18T10:44:18.722Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "aman",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
