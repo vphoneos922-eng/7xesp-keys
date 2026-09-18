@@ -387,10 +387,12 @@
     "created_at": "2026-09-18T05:50:19.804Z",
     "expires_at": "2026-09-28T05:50:19.017Z",
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-F953592DEF58",
+    "locked_at": "2026-09-18T05:55:45.867Z",
     "active": true,
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-F953592DEF58"
+    ]
   }
 }
