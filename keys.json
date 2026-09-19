@@ -124,13 +124,11 @@
     "created_at": "2026-09-11T08:52:02.399Z",
     "expires_at": "2026-09-18T08:52:01.422Z",
     "duration": "",
-    "device_id": "WDX-979A025FBB84",
-    "locked_at": "2026-09-11T08:56:18.614Z",
+    "device_id": null,
+    "locked_at": null,
     "active": true,
     "max_devices": 1,
-    "connected_devices": [
-      "WDX-979A025FBB84"
-    ]
+    "connected_devices": []
   },
   "7xESP_JKGFG_VLA7F": {
     "label": "Ashu",
