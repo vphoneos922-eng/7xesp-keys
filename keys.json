@@ -253,17 +253,6 @@
       "WDX-2F5A2BFC60D6"
     ]
   },
-  "7xESP_Z2CBN_TWHJM": {
-    "label": "No Label",
-    "created_at": "2026-09-18T05:23:49.704Z",
-    "expires_at": "2026-09-28T05:23:49.200Z",
-    "duration": "",
-    "device_id": null,
-    "locked_at": null,
-    "active": true,
-    "max_devices": 1,
-    "connected_devices": []
-  },
   "7xESP_KLXNJ_D7FUG": {
     "label": "Kausik",
     "created_at": "2026-09-18T05:50:19.804Z",
