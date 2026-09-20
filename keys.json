@@ -267,5 +267,17 @@
     "connected_devices": [
       "WDX-6E8418DAA4DA"
     ]
+  },
+  "7xESP_T9778_N45JX": {
+    "label": "Jhon",
+    "created_at": "2026-09-20T19:20:57.252Z",
+    "expires_at": "2026-09-27T19:20:55.167Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "baki",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
