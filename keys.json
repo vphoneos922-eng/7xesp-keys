@@ -273,11 +273,13 @@
     "created_at": "2026-09-20T19:20:57.252Z",
     "expires_at": "2026-09-27T19:20:55.167Z",
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-6E8418DAA4DA",
+    "locked_at": "2026-09-20T19:30:06.368Z",
     "active": true,
     "reseller": "baki",
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-6E8418DAA4DA"
+    ]
   }
 }
