@@ -240,20 +240,6 @@
       "WDX-D482DCD161D6"
     ]
   },
-  "7xESP_7TCXS_STQ68": {
-    "label": "Jhon",
-    "created_at": "2026-09-19T17:10:57.150Z",
-    "expires_at": "2026-09-20T17:10:54.768Z",
-    "duration": "",
-    "device_id": "WDX-6E8418DAA4DA",
-    "locked_at": "2026-09-19T17:43:24.184Z",
-    "active": true,
-    "reseller": "baki",
-    "max_devices": 1,
-    "connected_devices": [
-      "WDX-6E8418DAA4DA"
-    ]
-  },
   "7xESP_T9778_N45JX": {
     "label": "Jhon",
     "created_at": "2026-09-20T19:20:57.252Z",
