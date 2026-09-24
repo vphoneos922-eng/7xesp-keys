@@ -273,11 +273,13 @@
     "created_at": "2026-09-24T09:15:57.912Z",
     "expires_at": "2026-10-01T09:15:56.444Z",
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-E276FAD10776",
+    "locked_at": "2026-09-24T09:16:10.597Z",
     "active": true,
     "reseller": "exclusive",
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-E276FAD10776"
+    ]
   }
 }
