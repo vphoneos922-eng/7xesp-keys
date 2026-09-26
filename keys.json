@@ -286,11 +286,13 @@
     "created_at": "2026-09-26T07:34:09.315Z",
     "expires_at": null,
     "duration": "",
-    "device_id": null,
-    "locked_at": null,
+    "device_id": "WDX-E398A2D53D0D",
+    "locked_at": "2026-09-26T07:43:38.294Z",
     "active": true,
     "reseller": "aman",
     "max_devices": 1,
-    "connected_devices": []
+    "connected_devices": [
+      "WDX-E398A2D53D0D"
+    ]
   }
 }
