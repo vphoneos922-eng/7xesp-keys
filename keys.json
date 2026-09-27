@@ -269,5 +269,17 @@
     "connected_devices": [
       "WDX-48540E48341E"
     ]
+  },
+  "7xESP_6NSSL_DC6GW": {
+    "label": "admintribo",
+    "created_at": "2026-09-27T07:53:55.376Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "admintribo",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
