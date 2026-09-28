@@ -283,5 +283,16 @@
     "connected_devices": [
       "WDX-C6D834BF27ED"
     ]
+  },
+  "7xESP_8RSRF_N2QVY": {
+    "label": "Kaushik",
+    "created_at": "2026-09-28T06:59:52.294Z",
+    "expires_at": null,
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
