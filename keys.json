@@ -282,19 +282,5 @@
     "connected_devices": [
       "WDX-6E8418DAA4DA"
     ]
-  },
-  "7xESP_U259V_GL2K6": {
-    "label": "Sary",
-    "created_at": "2026-09-30T16:23:18.468Z",
-    "expires_at": "2026-10-01T04:23:16.040Z",
-    "duration": "",
-    "device_id": "WDX-C958590538B5",
-    "locked_at": "2026-09-30T16:23:56.581Z",
-    "active": true,
-    "reseller": "baki",
-    "max_devices": 1,
-    "connected_devices": [
-      "WDX-C958590538B5"
-    ]
   }
 }
