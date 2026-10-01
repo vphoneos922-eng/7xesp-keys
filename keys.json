@@ -254,5 +254,17 @@
     "connected_devices": [
       "WDX-6E8418DAA4DA"
     ]
+  },
+  "7xESP_84G27_JE8GF": {
+    "label": "Sary",
+    "created_at": "2026-10-01T22:09:44.572Z",
+    "expires_at": "2026-10-02T22:09:41.418Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "baki",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
