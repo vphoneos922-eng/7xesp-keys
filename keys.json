@@ -254,5 +254,17 @@
     "connected_devices": [
       "WDX-C958590538B5"
     ]
+  },
+  "7xESP_QW62S_44B4X": {
+    "label": "Jhon",
+    "created_at": "2026-10-02T01:05:09.619Z",
+    "expires_at": "2026-10-07T01:05:07.170Z",
+    "duration": "",
+    "device_id": null,
+    "locked_at": null,
+    "active": true,
+    "reseller": "baki",
+    "max_devices": 1,
+    "connected_devices": []
   }
 }
