@@ -10,7 +10,16 @@
   "lib_name": "libil2cpp.so",
   "keys_url": "https://raw.githubusercontent.com/vphoneos922-eng/7xesp-keys/main/keys.json",
   "maintenance": true,
-  "maintenance_msg": "7xesp are now closed because of his admin.",
+  "maintenance_msg": "⚠️ 7xESP — IMPORTANT NOTICE
+
+7xESP has been discontinued due to the admin’s personal issues.
+
+If you want to purchase or get the new version, please contact us on Telegram:
+
+• @YashXPrime1025
+• @CRYRIX1025
+
+Thank you for your support and understanding. ❤️.",
   "force_update": false,
   "min_version": "1.0",
   "mod_features": {
